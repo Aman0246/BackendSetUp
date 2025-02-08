@@ -1,0 +1,9 @@
+{
+    "level": "info",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    },
+    "timestamp": "2025-02-08T20:05:05.186Z"
+}
