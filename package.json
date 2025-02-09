@@ -28,6 +28,7 @@
         "@eslint/js": "^9.20.0",
         "@types/express": "^5.0.0",
         "@types/node": "^22.13.1",
+        "@types/source-map-support": "^0.5.10",
         "eslint": "^9.20.0",
         "eslint-config-prettier": "^10.0.1",
         "husky": "^9.1.7",
@@ -39,9 +40,14 @@
         "typescript-eslint": "^8.23.0"
     },
     "dependencies": {
+        "cors": "^2.8.5",
         "cross-env": "^7.0.3",
         "dotenv-flow": "^4.1.0",
         "express": "^4.21.2",
-        "winston": "^3.17.0"
+        "helmet": "^8.0.0",
+        "rate-limiter-flexible": "^5.0.5",
+        "source-map-support": "^0.5.21",
+        "winston": "^3.17.0",
+        "winston-mongodb": "^6.0.0"
     }
 }
