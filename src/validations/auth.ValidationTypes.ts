@@ -3,7 +3,7 @@ import { emailValidation, requiredString } from './joiValidationTypes';
 
 export const authValidationSchema = (path: string): Joi.ObjectSchema<unknown> | null => {
     switch (path) {
-        case '/login':
+        case '/logina':
             return Joi.object({
                 email: emailValidation(),
                 password: requiredString(1, 50),

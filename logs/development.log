@@ -2998,3 +2998,914 @@
         "SERVER_URL": "http://localhost:8804"
     }
 }
+{
+    "timestamp": "2025-02-09T20:13:14.104Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T20:13:14.110Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T20:13:14.112Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T20:13:38.578Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:04:40.830Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:04:40.836Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:04:40.838Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:07:55.821Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:07:55.827Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:07:55.829Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:08:42.842Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:08:42.848Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:08:42.850Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:09:42.437Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:10:17.614Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:25.922Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:26.012Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:26.021Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:26.027Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:14:26.029Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:26.561Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:26.663Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:26.869Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:27.515Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:28.116Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:28.552Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:28.950Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:29.396Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:29.830Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:30.520Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR \"email\" is required. \"password\" is required",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "ValidationError",
+        "ERROR_MESSAGE": "\"email\" is required. \"password\" is required",
+        "STACK": "ValidationError: \"email\" is required. \"password\" is required"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:30.751Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:30.911Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:31.231Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:31.434Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:31.631Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:31.912Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:32.315Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:32.403Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:32.591Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:32.684Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:32.830Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:33.041Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:34.200Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:34.349Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:34.444Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:34.711Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:35.070Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:56.509Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:56.713Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:56.910Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:57.069Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:57.229Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:14:57.432Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR Too many Request! please Try again after some time",
+    "meta": {
+        "PATH": "/api/v1/auth/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 429,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "Too many Request! please Try again after some time",
+        "STACK": "Error: Too many Request! please Try again after some time\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:19:33\n    at Generator.throw (<anonymous>)\n    at rejected (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\middleware\\rateLimit.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:15:34.581Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:15:34.585Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:15:34.587Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:16:37.654Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:16:37.658Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:16:37.659Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:19:18.304Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:19:18.308Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:19:18.310Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:19:33.050Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:19:33.055Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:19:33.059Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:19:41.927Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:19:41.932Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:19:41.933Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:20:27.384Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:20:27.388Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:20:27.389Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:20:43.252Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:20:43.256Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:20:43.257Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:20:57.857Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:20:57.861Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:20:57.862Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:27.562Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:27.566Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:21:27.567Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:29.105Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR An unknown error occurred",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "Validation schema not found for this route",
+        "ERROR_MESSAGE": "Validation schema not found for this route"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:29.970Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR An unknown error occurred",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "Validation schema not found for this route",
+        "ERROR_MESSAGE": "Validation schema not found for this route"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:30.122Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR An unknown error occurred",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "Validation schema not found for this route",
+        "ERROR_MESSAGE": "Validation schema not found for this route"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:30.270Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR An unknown error occurred",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "Validation schema not found for this route",
+        "ERROR_MESSAGE": "Validation schema not found for this route"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:30.407Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR An unknown error occurred",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "Validation schema not found for this route",
+        "ERROR_MESSAGE": "Validation schema not found for this route"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:30.515Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR An unknown error occurred",
+    "meta": {
+        "PATH": "/login",
+        "METHOD": "GET",
+        "STATUS_CODE": 400,
+        "ERROR_NAME": "Validation schema not found for this route",
+        "ERROR_MESSAGE": "Validation schema not found for this route"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:58.526Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T22:21:58.530Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T22:21:58.531Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}

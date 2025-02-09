@@ -24,7 +24,7 @@ export default tseslint.config({
         // error ,off
         'no-console': 'off',
         quotes: ['error', 'single', { allowTemplateLiterals: true }],
-        '@typescript-eslint/no-redundant-type-constituents': 'off' // Disable the rule
+        // '@typescript-eslint/no-redundant-type-constituents': 'off' // Disable the rule
     }
 })
 
