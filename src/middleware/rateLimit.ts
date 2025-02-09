@@ -1,14 +1,14 @@
 
-// import config from "../config.ts/config";
+import config from '../config.ts/config';
 import { rateLimiterMongo } from '../config.ts/rateLimiter';
-// import { EApplicationEnvironment } from "../constants/application";
+import { EApplicationEnvironment } from '../constants/application';
 import { Request, Response, NextFunction } from 'express';
 import httpError from '../utils/httpError'
 import responseMessage from '../constants/responseMessage';
 export default async (req: Request, _: Response, next: NextFunction) => {
-    // if (config.ENV === EApplicationEnvironment.DEVELOPMENT) {
-    //     return next();
-    // }
+    if (config.ENV === EApplicationEnvironment.DEVELOPMENT) {
+        return next();
+    }
 
     if (rateLimiterMongo) {
         try {

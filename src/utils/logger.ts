@@ -49,7 +49,6 @@ const fileLogFormat = format.printf(({ level, message, timestamp, meta = {} }) =
             stack: meta.stack || '',
         };
     } else if (typeof meta === 'object' && Object.keys(meta || {}).length > 0) {
-        // Iterate through `meta` and handle nested errors
         for (const [key, value] of Object.entries(meta || {})) {
             if (value instanceof Error) {
                 logeMeta[key] = {

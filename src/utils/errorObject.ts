@@ -1,8 +1,8 @@
-import { Request } from "express";
-import { THttpError } from "../types/types";
-import responseMessage from "../constants/responseMessage";
-import { EApplicationEnvironment } from "../constants/application";
-import config from "../config.ts/config";
+import { Request } from 'express';
+import { THttpError } from '../types/types';
+import responseMessage from '../constants/responseMessage';
+import { EApplicationEnvironment } from '../constants/application';
+import config from '../config.ts/config';
 
 
 export default (
@@ -10,7 +10,7 @@ export default (
     req: Request,
     errorStatusCode: number = 500
 ): THttpError => {
-    let errorObject: THttpError = {
+    const errorObject: THttpError = {
         success: false,
         statusCode: errorStatusCode,
         request: {
@@ -23,7 +23,7 @@ export default (
         trace: err instanceof Error && err.stack ? { error: err.stack } : null,
     };
 
-    console.info("CONTROLLER_RESPONSE", { meta: errorObject });
+    console.info('CONTROLLER_RESPONSE', { meta: errorObject });
 
     if (config.ENV === EApplicationEnvironment.PRODUCTION) {
         delete errorObject.request.ip;
