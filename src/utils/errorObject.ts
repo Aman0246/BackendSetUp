@@ -23,8 +23,6 @@ export default (
         trace: err instanceof Error && err.stack ? { error: err.stack } : null,
     };
 
-    console.info('CONTROLLER_RESPONSE', { meta: errorObject });
-
     if (config.ENV === EApplicationEnvironment.PRODUCTION) {
         delete errorObject.request.ip;
         delete errorObject.trace;

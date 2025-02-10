@@ -22,9 +22,9 @@ export default tseslint.config({
     extends: [eslint.configs.recommended, ...tseslint.configs.recommendedTypeChecked, eslintConfigPrettier],
     rules: {
         // error ,off
-        'no-console': 'off',
+        'no-console': 'error',
         quotes: ['error', 'single', { allowTemplateLiterals: true }],
-        // '@typescript-eslint/no-redundant-type-constituents': 'off' // Disable the rule
+        '@typescript-eslint/no-redundant-type-constituents': 'off' // Disable the rule
     }
 })
 

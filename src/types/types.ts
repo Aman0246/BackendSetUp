@@ -10,6 +10,7 @@ export type THttpResponse = {
     data: unknown
 }
 
+
 export type THttpError = {
     success: boolean
     statusCode: number
@@ -22,3 +23,13 @@ export type THttpError = {
     data: unknown
     trace?: object | null
 }
+
+
+
+export type ApiResponse<T> = {
+    success: boolean;
+    message: string;
+    data?: T | null;
+    error?: string;
+}
+

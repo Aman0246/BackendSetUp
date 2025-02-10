@@ -3909,3 +3909,341 @@
         "SERVER_URL": "http://localhost:8804"
     }
 }
+{
+    "timestamp": "2025-02-09T23:08:03.502Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:08:03.514Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:08:03.518Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:12:40.955Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:12:40.958Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:12:40.960Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:13:33.226Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR route not found",
+    "meta": {
+        "PATH": "/api/v1/api/sel",
+        "METHOD": "GET",
+        "STATUS_CODE": 404,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "route not found",
+        "STACK": "Error: route not found\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\app.ts:23:15\n    at Layer.handle [as handle_request] (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:646:15\n    at next (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:265:14)\n    at Function.handle (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:47:12)"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:14:25.154Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:14:25.158Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:14:25.160Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:16:18.195Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:16:18.199Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:16:18.200Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:19.669Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:19.673Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:18:19.674Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:25.153Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:25.157Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:18:25.158Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:27.407Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR route not found",
+    "meta": {
+        "PATH": "/api/v1/api/sel",
+        "METHOD": "GET",
+        "STATUS_CODE": 404,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "route not found",
+        "STACK": "Error: route not found\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\app.ts:23:15\n    at Layer.handle [as handle_request] (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:646:15\n    at next (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:265:14)\n    at Function.handle (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:47:12)"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:41.429Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:41.432Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:18:41.433Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:18:45.820Z",
+    "level": "ERROR",
+    "message": "REQUEST_ERROR route not found",
+    "meta": {
+        "PATH": "/api/v1/api/sel",
+        "METHOD": "GET",
+        "STATUS_CODE": 404,
+        "ERROR_NAME": "Error",
+        "ERROR_MESSAGE": "route not found",
+        "STACK": "Error: route not found\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\src\\app.ts:23:15\n    at Layer.handle [as handle_request] (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:646:15\n    at next (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:265:14)\n    at Function.handle (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\Aman kashyap\\Desktop\\BackendSetUp\\node_modules\\express\\lib\\router\\index.js:47:12)"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:19:11.516Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:19:11.522Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:19:11.523Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:19:41.988Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:19:41.993Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:19:41.996Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:20:04.675Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:20:04.681Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:20:04.685Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:20:14.629Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:20:14.634Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:20:14.635Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:20:43.072Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:20:43.081Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:20:43.083Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:25:07.267Z",
+    "level": "INFO",
+    "message": "DATABASE_CONNECTED",
+    "meta": {
+        "CONNECTION_NAME": "Setup"
+    }
+}
+{
+    "timestamp": "2025-02-09T23:25:07.271Z",
+    "level": "INFO",
+    "message": "RATE_LIMITER_INITIATED",
+    "meta": {}
+}
+{
+    "timestamp": "2025-02-09T23:25:07.272Z",
+    "level": "INFO",
+    "message": "APPLICATION_STARTED",
+    "meta": {
+        "PORT": "8804",
+        "SERVER_URL": "http://localhost:8804"
+    }
+}
